@@ -1,6 +1,5 @@
-# Mirror-Neuron-Antunes-et-al-2017-
+# Modeling Mirror Neurons Through Spike-Timing Dependent Plasticity
 
-Modeling Mirror Neurons Through Spike-Timing Dependent Plasticity.
 
 Model Type:	Neuron or other electrically excitable cell;
 
